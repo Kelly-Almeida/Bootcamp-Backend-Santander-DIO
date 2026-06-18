@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" filepath="$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios-Codigo/Resolucao-Java/Resolucao-Java.iml" filepath="$PROJECT_DIR$/Desafios-Codigo/Resolucao-Java/Resolucao-Java.iml" />
     </modules>
   </component>
 </project>

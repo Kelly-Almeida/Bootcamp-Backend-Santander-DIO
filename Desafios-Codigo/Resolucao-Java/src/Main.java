@@ -21,7 +21,7 @@ public class Main{
                 float salBruto;
                 do{
                     System.out.print("\nDigite o salário bruto: ");
-                     salBruto = scan.nextFloat();
+                    salBruto = scan.nextFloat();
 
                     if (salBruto <= 0){
                         System.out.println("Digite um valor válido");
