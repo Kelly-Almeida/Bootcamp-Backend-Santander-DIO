@@ -1,0 +1,15 @@
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/bin/Debug/net10.0/Resolucao-CSharp
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/bin/Debug/net10.0/Resolucao-CSharp.deps.json
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/bin/Debug/net10.0/Resolucao-CSharp.runtimeconfig.json
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/bin/Debug/net10.0/Resolucao-CSharp.dll
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/bin/Debug/net10.0/Resolucao-CSharp.pdb
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.AssemblyInfoInputs.cache
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.AssemblyInfo.cs
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.csproj.CoreCompileInputs.cache
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.sourcelink.json
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.dll
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/refint/Resolucao-CSharp.dll
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.pdb
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/Resolucao-CSharp.genruntimeconfig.cache
+/home/sants/Bootcamp-Backend-Santander-DIO/Desafios-Codigo/Resolucao-CSharp/obj/Debug/net10.0/ref/Resolucao-CSharp.dll

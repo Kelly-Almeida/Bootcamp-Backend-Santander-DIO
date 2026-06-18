@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Resolucao-CSharp/1.0.0": {
+        "runtime": {
+          "Resolucao-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resolucao-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
