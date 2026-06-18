@@ -1,21 +1,16 @@
 # Santander Bootcamp 2026 - Java Backend
 
-Bem-vindo(a) ao meu repositório oficial de estudos do **Santander Bootcamp 2026**, uma parceria entre a **DIO** e o **Santander**. Este espaço documenta minha evolução técnica e os projetos desenvolvidos durante esta jornada de aprendizado em Java.
+Bem-vindo ao repositório dedicado aos desafios e projetos desenvolvidos durante o **Santander Bootcamp 2026**, promovido pela **DIO (Digital Innovation One)**. Este repositório documenta minha jornada de aprendizado e evolução técnica no ecossistema Java.
 
-## 🎓 Trilha de Aprendizado
-O bootcamp está estruturado para levar o aluno do zero ao desenvolvimento de soluções robustas com Java. Meu progresso atual:
+## 🎯 Sobre o Programa
+O Santander Bootcamp 2026 foca em preparar desenvolvedores para o mercado de trabalho, abrangendo desde fundamentos da linguagem Java até tecnologias avançadas de backend.
 
-- **Copilotos com IA no Desenvolvimento de Soluções**;
-- **Fundamentos Para Começar a Programar em Java**;
-- **Programando o Mundo Real com Orientação a Objetos no Java**;
-- **Boas Práticas, Padrões e Dados no Java**;
-- **Potencializando Sua Produtividade com Spring Boot**;
-- **Projeto Final: Assistente Virtual Inteligente por Voz**.
+## 🛠 Tecnologias Utilizadas
+Durante o primeiro semestre, foco em:
+- **Linguagem:** Java 21+
+- **Gestão de Dependências:** Maven / Gradle
+- **Ambiente de Desenvolvimento:** IntelliJ IDEA / VS Code
+- **Controle de Versão:** Git e GitHub
+- **Frameworks e Ferramentas:** [Liste aqui se já tiver usado, ex: Spring Boot, JUnit, PostgreSQL]
 
-## 🛠 Tecnologias e Ferramentas
-* **Linguagem:** Java (JDK 21+);
-* **Framework:** Spring Boot;
-* **Ambiente:** Linux (Ubuntu);
-* **IDE:** IntelliJ IDEA;
-* **Versionamento:** Git e GitHub.
 
