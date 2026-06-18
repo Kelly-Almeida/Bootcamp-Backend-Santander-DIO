@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" filepath="$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" />
     </modules>
   </component>
 </project>
