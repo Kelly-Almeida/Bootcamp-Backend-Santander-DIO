@@ -5,14 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 1/Atividade 1.iml" filepath="$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 1/Atividade 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 2/Atividade 2.iml" filepath="$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 2/Atividade 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 3/Atividade 3.iml" filepath="$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade 3/Atividade 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-01/Atividade-01.iml" filepath="$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-01/Atividade-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-02/Atividade-02.iml" filepath="$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-02/Atividade-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-1/Atividade-1.iml" filepath="$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-1/Atividade-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-2/Atividade-2.iml" filepath="$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-2/Atividade-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade-Abstracao-Encapsulamento.iml" filepath="$PROJECT_DIR$/Atividade-Abstracao-Encapsulamento/Atividade-Abstracao-Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-Heranca-Polimorfismo.iml" filepath="$PROJECT_DIR$/Atividade-Heranca-Polimorfismo/Atividade-Heranca-Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-Interfaces-Lambdas.iml" filepath="$PROJECT_DIR$/Atividade-Interfaces-Lambdas/Atividade-Interfaces-Lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Backend-Santander-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" filepath="$PROJECT_DIR$/Desafios-Codigo/Desafios-Codigo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resolcao-Kotlin/Resolcao-Kotlin.iml" filepath="$PROJECT_DIR$/Resolcao-Kotlin/Resolcao-Kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios-Codigo/Resolucao-Java/Resolucao-Java.iml" filepath="$PROJECT_DIR$/Desafios-Codigo/Resolucao-Java/Resolucao-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testes/Testes.iml" filepath="$PROJECT_DIR$/Testes/Testes.iml" />
       <module fileurl="file://$PROJECT_DIR$/recordsTestes/recordsTestes.iml" filepath="$PROJECT_DIR$/recordsTestes/recordsTestes.iml" />
     </modules>
   </component>
