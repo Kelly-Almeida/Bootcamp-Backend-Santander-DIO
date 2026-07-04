@@ -1,6 +1,11 @@
 public class Vestuario extends Produto{
-    private String tipo;
-    public Vestuario(){this.tipo = "Vestuário";}
+
+    public Vestuario(){}
+
+    @Override
+    public String getTTipo() {
+        return "Vestuário";
+    }
 
     @Override
     public float setImposto() {

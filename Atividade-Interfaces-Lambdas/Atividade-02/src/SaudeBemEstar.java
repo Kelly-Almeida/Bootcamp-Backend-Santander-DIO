@@ -1,6 +1,10 @@
 public class SaudeBemEstar extends Produto{
-    private String tipo;
-    public SaudeBemEstar(){this.tipo = "Saude e bem estar";}
+    public SaudeBemEstar(){}
+
+    @Override
+    public String getTTipo() {
+        return "Saúde e bem estar";
+    }
 
     @Override
     public float setImposto() {

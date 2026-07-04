@@ -3,7 +3,6 @@ import MainScreen.CheckS;
 
 public abstract class Produto implements  Tributo{
     private String nome;
-    private String tipo;
     private float valorUni;
 
 
@@ -22,6 +21,7 @@ public abstract class Produto implements  Tributo{
 
             produtoInput = scan.nextLine();
         }while(loop);
+        this.nome = produtoInput;
     }
 
     private void setValorUni(){
@@ -29,11 +29,12 @@ public abstract class Produto implements  Tributo{
         System.out.printf("Digite o valor unitário do produto: ");
         String valorUniStr;
         float valor = CheckS.setNumberValid();
+        this.valorUni = valor;
     }
 
     public String getNome(){return this.nome;}
 
-    public String getTTipo(){return this.tipo;}
+    public abstract String getTTipo();
 
     public float getValorUni(){return this.valorUni;}
 

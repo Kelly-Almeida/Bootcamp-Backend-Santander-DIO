@@ -1,7 +1,11 @@
 public class Cultura extends Produto{
-    private String tipo;
 
-    public Cultura(){this.tipo = "Cultura";}
+    public Cultura(){}
+
+    @Override
+    public String getTTipo() {
+        return "Cultura";
+    }
 
     @Override
     public float setImposto() {

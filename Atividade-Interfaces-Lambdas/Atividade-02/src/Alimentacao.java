@@ -2,9 +2,13 @@ public class Alimentacao extends Produto{
     private String tipo;
 
     public Alimentacao(){
-        this.tipo = "Alimentação";
-
     }
+
+    @Override
+    public String getTTipo() {
+        return "Alimentação";
+    }
+
 
     @Override
     public float setImposto() {
