@@ -1,4 +1,8 @@
-
+/*
+*Escreva um código que cria uma calculadora para as operações de soma e subtração,
+* o usuário deve informar todos os números que serão usados
+*na conta de uma só vez utilizando virgulas para separa-los.
+*/
 import MainScreen.Header;
 import MainScreen.SwitchOps;
 import com.sun.jdi.request.StepRequest;

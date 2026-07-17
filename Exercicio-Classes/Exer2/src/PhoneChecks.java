@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
@@ -62,5 +63,52 @@ public interface PhoneChecks {
         return mapInfor;
     }
 
+    public static String formatPhoneNumber(Map info, String number){
+        StringBuilder phoneFormatado = new StringBuilder();
+        String phone  = number.replaceAll("\\D", "");//\\D é tudo que não for número
 
+        System.out.println(phone);
+
+        //Em caso de ser um número
+        if ((boolean) info.get("IsNumber") || (boolean) info.get("possibleNumber")){
+
+            //Em caso de ter DDD
+            if((boolean) info.get("WithDDD")){
+                //Em caso de ser um telefone fixo
+                if((boolean) info.get("IsFixedPhone")){
+                    //"(XX) XXXX-XXXX"
+                    phoneFormatado.append("(").append(phone, 0, 2).append(") ").append(phone, 2, 6).append("-").append(phone, 6, 10);
+
+                }
+                //Em caso de não ser um telefone fixo
+                else {
+                    //(XX) XXXXX-XXXX
+                    phoneFormatado.append("(").append(phone, 0, 2).append(") ").append(phone,2, 8).append("-").append(phone,7, 11);
+
+                }
+            }
+            //Em caso de não ter DDD
+            else{
+                //Em caso de ser um telefone fixo
+                if((boolean) info.get("IsFixedPhone")){
+                    //"XXXX-XXXX"
+                    phoneFormatado.append(phone, 0, 4).append("-").append(phone,4, 8);
+                }
+                //Em caso de não ser um telefone fixo
+                else {
+                    //XXXXX-XXXX
+                    phoneFormatado.append(phone, 0, 5).append("-").append(phone, 5, 9);
+                }
+            }
+
+
+        }
+        //Em caso de não ser um número
+        else{
+           //Em caso de não ser um número possível
+            System.out.println("Digite um número de telefone válido!!");
+            return "";
+        }
+        return String.join("", phoneFormatado);
+    }
 }
