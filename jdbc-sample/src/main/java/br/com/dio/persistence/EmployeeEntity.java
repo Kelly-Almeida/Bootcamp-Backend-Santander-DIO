@@ -1,0 +1,16 @@
+package br.com.dio.persistence;
+
+import lombok.Data;
+
+import java.math.BigDecimal;
+import java.time.OffsetDateTime;
+
+@Data
+public class EmployeeEntity {
+
+    private long id;
+    private String name;
+    private OffsetDateTime birthday;
+    private BigDecimal salary;
+
+}

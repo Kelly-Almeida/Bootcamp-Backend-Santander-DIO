@@ -4,28 +4,49 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Gradle-tutorial" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Annotation-processor" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Gradle-tutorial" />
+            <option value="$PROJECT_DIR$/Annotation-processor" />
+            <option value="$PROJECT_DIR$/Annotation-processor/annotation" />
+            <option value="$PROJECT_DIR$/Annotation-processor/processor" />
+            <option value="$PROJECT_DIR$/Annotation-processor/sample" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle-teste" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Annotations" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/gradle-teste" />
+            <option value="$PROJECT_DIR$/Annotations" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle-tutorial" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle-project" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/gradle-tutorial" />
+            <option value="$PROJECT_DIR$/gradle-project" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle-toMaven2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gradle-toMaven2" />
+            <option value="$PROJECT_DIR$/gradle-toMaven2/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/jdbc-sample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/jdbc-sample" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
