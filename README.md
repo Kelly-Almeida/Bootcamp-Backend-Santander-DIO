@@ -11,6 +11,6 @@ Durante o primeiro semestre, foco em:
 - **Gestão de Dependências:** Maven / Gradle
 - **Ambiente de Desenvolvimento:** IntelliJ IDEA / VS Code
 - **Controle de Versão:** Git e GitHub
-- **Frameworks e Ferramentas:** [Liste aqui se já tiver usado, ex: Spring Boot, JUnit, PostgreSQL]
+- **Frameworks e Ferramentas:** Maven, Gradle, Spring Boot e MySQL
 
 
