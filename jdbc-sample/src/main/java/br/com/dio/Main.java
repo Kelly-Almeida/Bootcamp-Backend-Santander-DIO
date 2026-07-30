@@ -26,7 +26,7 @@ public class Main {
 
 
         var flyway = Flyway.configure()
-                .dataSource("jdbc:mysql://localhost:3306/test", "root", "25164036")
+                .dataSource("jdbc:mysql://localhost:3306/BootcampJava", "root", "25164036Ka!")
                 .load();
 
         flyway.repair(); //Repara problemas da bibliotecas e ambiente

@@ -12,7 +12,7 @@ public class ConnectionUtil {
 
 
     public static Connection getConnection() throws SQLException {
-        return DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "25164036"); //A porta é opicional
+        return DriverManager.getConnection("jdbc:mysql://localhost:3306/BootcampJava", "root", "25164036Ka!"); //A porta é opicional
     }
 
 }

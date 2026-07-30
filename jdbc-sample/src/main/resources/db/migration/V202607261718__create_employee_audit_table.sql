@@ -1,5 +1,6 @@
 CREATE TABLE employees_audit(
     id BIGINT not null auto_increment,
+    employee_id BIGINT,
     old_name VARCHAR(150),
     name VARCHAR(150),
     salary decimal(10, 2),
