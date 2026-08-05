@@ -21,6 +21,8 @@ dependencies {
     compileOnly("org.projectlombok:lombok:1.18.46")
     annotationProcessor("org.projectlombok:lombok:1.18.46")
 
+    implementation("net.datafaker:datafaker:2.7.0")
+
 }
 
 tasks.test {

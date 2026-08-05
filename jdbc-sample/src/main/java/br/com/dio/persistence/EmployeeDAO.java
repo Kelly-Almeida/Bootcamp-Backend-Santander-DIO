@@ -1,21 +1,20 @@
 package br.com.dio.persistence;
 
+import br.com.dio.persistence.entity.EmployeeEntity;
 import com.mysql.cj.jdbc.StatementImpl;
+import lombok.NonNull;
 
-import javax.sql.rowset.spi.SyncResolver;
 import java.sql.SQLException;
 import java.time.OffsetDateTime;
-import java.time.ZoneOffset;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import static java.time.ZoneOffset.UTC;
 
 public class EmployeeDAO {
 
-    public void insert(final EmployeeEntity entity){
+    public void insert(final @NonNull EmployeeEntity entity){
         try(
                 var connection = ConnectionUtil.getConnection(); //Criando conexão
                 var statement = connection.createStatement();
